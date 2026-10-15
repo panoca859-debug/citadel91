@@ -1,1 +1,27 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+body {
+  background: black;
+  color: white;
+  font-family: monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+</style>
+</head>
+<body>
+<a href="./bakeryincident/">https/citadel91/bakeryincident</a>
+</body>
+</html>
 # citadel91
